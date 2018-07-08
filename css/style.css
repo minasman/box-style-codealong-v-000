@@ -320,6 +320,7 @@ background: linear-gradient(
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
+  margin: 0;
 }
 
 #logo h2 {
